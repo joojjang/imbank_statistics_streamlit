@@ -1,0 +1,10 @@
+.stats
+bin/
+etc/
+include/
+lib/
+share/
+*.cfg
+__pycache__/
+*.pyc
+.DS_Store
